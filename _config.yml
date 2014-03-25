@@ -8,9 +8,9 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : All About Linux
-tagline: Site Tagline
-author : randalltux
+  title : All About Linux
+  tagline: Site Tagline
+  author : randalltux
   name : randalltux
   email : randalltux@yahoo.co.id
   github : randalltux
